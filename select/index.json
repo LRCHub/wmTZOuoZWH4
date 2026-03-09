@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハイド&ハイド / 柊キライ feat.flower with.GABULI（feat. flower with.GABULI）",
+  "base_artist": "柊キライ",
+  "createdAt": "2026-03-09T20:55:46.415474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイド&ハイド",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/01_ハイド&ハイド_柊キライ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイド&ハイド",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/pl_01_ハイド&ハイド_柊キライ.txt"
+    }
+  ]
+}
